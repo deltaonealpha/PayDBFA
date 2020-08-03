@@ -1,4 +1,4 @@
-Paying: deltaPayments
+Paying: DBFA Payments
 Amount: As shown on your bill
 
 Please tap below to complete the payment for your latest purchase at our store:
